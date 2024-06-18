@@ -1,0 +1,98 @@
+.main{
+    
+    padding: 20px;
+    /* height: 100vh; */
+    display: flex;
+    background-color: rgb(175, 238, 238);
+        
+}
+
+.topbar{
+    display: flex;
+    
+    /* min-width: 100%; */
+    width: 30px;
+    border-radius: 5px;
+    box-shadow: 0 2 0px;
+    margin-top: 20px;
+}
+/* .layout-container{
+    margin-top: 10px;
+} */
+.Nav{
+    margin-left: 140px;
+    font-weight: 500;
+    
+
+}
+/* .menu{
+    margin-left: 50%;
+}
+.features{
+    margin-left: 50%;
+}
+.contact{
+    margin-left: 50%;
+}
+.aboutus{
+    margin-left: 50%;
+} */
+
+.logo{
+    margin-left: 10px;
+}
+
+.homeImg{
+    margin-left: 400px;
+    position: relative;
+    z-index: 0;
+}
+
+.poster{
+    position: absolute;
+    background-color:#3C9377 ;
+    width:600px;
+    height:407px ;
+    border-radius: 20px;
+    z-index: 2;
+    margin-left: 120px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.poster-text{
+    color:white;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 60px;
+    text-align: center;
+}
+
+.btn-primary{
+    background-color: #3C9377;
+    color: white;
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+}
+
+.serviceArea{
+
+    margin-top: 50px;
+    justify-content: space-around;
+    display: flex;
+}
+
+.serviceTop{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.title{
+color: white;
+background-color:#D48383;
+font-size: medium;
+text-align: center;
+}

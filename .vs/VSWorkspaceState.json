@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\config",
+    "\\controllers",
+    "\\middlewares",
+    "\\models",
+    "\\routes"
+  ],
+  "SelectedNode": "\\config",
+  "PreviewInSolutionExplorer": false
+}

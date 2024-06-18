@@ -1,0 +1,75 @@
+.body{
+    background-color:#AEE7D4 ;
+}
+
+.form-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    /* background-color: rgb(108, 237, 202); */
+    background-color:#AEE7D4;
+    
+   
+}
+
+.register-form{
+    /* border: 1px solid rgb(128, 128, 128); */
+    padding: 30px;
+    background-color: #9AE1CA;
+    border-radius: 20px;
+
+    
+}
+.channel-form{
+    border: 1px solid rgb(128, 128, 128);
+    padding: 30px;
+    background-color: rgb(115, 236, 204);
+}
+
+.spacer {
+    height: 20px; /* Adjust the value as needed */
+    
+  
+}
+
+.text-center{
+    text-align: center;
+    text-decoration-color: rgb(21, 93, 93);
+    color: white;
+    
+}
+ 
+
+.center-container {
+    display: flex;
+    justify-content: center; /* Horizontal alignment */
+    align-items: center; /* Vertical alignment */
+    height: 5vh; /* Optional: Adjust to control the container's height */
+    width: 5;
+}
+.right-container{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    height: 5vh;
+    width: 5;
+    padding-bottom: 15px;
+}
+
+.form-box{
+    background-color: #9AE1CA;
+    width: 30%;
+    padding: 30px;
+    border-radius: 20px;
+
+}
+
+.forItem{
+    background:grey;
+}
+
+.LogoText{
+
+    color:#1BF4AD;
+}
